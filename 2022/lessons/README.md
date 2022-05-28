@@ -1,4 +1,4 @@
-# Content: Learning Julia (Lessons, exercises, case study)
+# Content: Learning Julia
 
 -   [Lesson 1:](01.Lesson1-ecosystem.pdf) Introduction, software environment, REPL, packages, working with Julia
 -   [Lesson 2:](02.Lesson2.basics.pdf) Values, variables, types, constants, print, input, comments, basic maths
