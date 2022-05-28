@@ -1,5 +1,7 @@
 # Content: Learning Julia
 
+Slides:
+
 -   [Lesson 1:](01.Lesson1-ecosystem.pdf) Introduction, software environment, REPL, packages, working with Julia
 -   [Lesson 2:](02.Lesson2.basics.pdf) Values, variables, types, constants, print, input, comments, basic maths
 -   [Lesson 3:](03.Lesson3.JumpPart1.pdf) Explicit optimization models with JuMP
